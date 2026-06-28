@@ -2,3 +2,4 @@
 
 // RUTAS PRINCIPALES:
 const apiBase = '/api/v1';
+export const rutaTickets = `${apiBase}/solicitudes`; // Rutas por Lisandro
